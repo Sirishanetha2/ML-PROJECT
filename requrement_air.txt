@@ -1,0 +1,18 @@
+Temp - Temperature
+RH - Relative Humidity
+NO2 - Nitrogen Dioxide	  
+NO - Nitrogen	
+O3 - Trioxygen	
+SO2 - Sulfur dioxide	
+PM2.5 - Particle pollution from fine particulates	
+Benzene	- light-yellow liquid chemical 
+Toluene	-  toluol is a substituted aromatic hydrocarbon
+CO - carbon and oxygen atoms	
+Xylene	-  aromatic hydrocarbon widely used in industry and medical technology as a solvent.
+NH3	-  ammonium hydroxide
+PM10     - very small particles found in dust and smoke. 
+
+
+
+
+ 
